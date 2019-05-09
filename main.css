@@ -1,0 +1,67 @@
+.navbox {
+	height: 50px;
+	width: 92%;
+	padding: 60px 60px;
+	background-color: orange;
+	border: 1px solid white;
+	font-size: 40px;
+	position:relative;
+	top: 20px;
+	left: 0px;
+}
+
+.ingre{
+	position: relative;
+	top: -150px;
+	left: 20px;
+}
+
+.ulist {
+	position: relative;
+	top: -150px;
+	left: 20px;
+}
+
+
+.cream{
+	display: inline-block;
+	height: 120px;
+	width: 120px;
+	padding: 25px 25px;
+	
+}
+
+.cookies{
+	display: inline-block;
+	height: 120px;
+	width: 120px;
+	padding: 25px 25px;
+}
+
+.mms {
+	display: inline-block;
+	height: 120px;
+	width: 120px;
+	padding: 25px 25px;
+
+}
+
+.reeses{
+	display: inline-block;
+	height: 120px;
+	width: 120px;
+	padding: 25px 25px;
+	
+}
+
+.block {
+	position: relative;
+	display: inline-block;
+
+}
+
+
+
+
+
+
